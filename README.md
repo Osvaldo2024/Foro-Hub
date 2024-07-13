@@ -1,4 +1,4 @@
 # FORO HUB
-`rgb (9, 105, 218)` ## DESCRIPCIÓN
+'rgb (9, 105, 218)' ## DESCRIPCIÓN
 
 
